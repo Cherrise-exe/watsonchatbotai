@@ -16,10 +16,31 @@
   height: 100vh;
 }
 
+.ce-message-bubble {
+  background-color: #2ca82c !important;
+}
+
+.ce-primary-button{
+  background-color: #2ca82c !important;
+}
+
+.anticon-paper-clip{
+ color: #2ca82c !important;
+}
+
+.ce-chat-title-text {
+  color: #2ca82c !important;
+
+}
+
+.ce-chat-subtitle-text {
+  color: #2ca82c !important;
+}
+
 .nav-bar {
   width: 100%;
   height: 66px;
-  background-color: #002766;
+  background-image: linear-gradient( #006b00, #32cd32, #ffffff);
 }
 
 .logo-tab {
@@ -28,14 +49,14 @@
   top: 12px;
   font-size: 32px;
   font-weight: 700;
-  color: white;
+  color: black;
 }
 
 .logout-tab {
   position: absolute;
   top: 22px;
   right: 22px;
-  color: white;
+  color: black;
   cursor: pointer;
 }
 
@@ -53,6 +74,7 @@
   bottom: 0px;
   left: 0px;
   right: 0px;
+
 }
 
 #login-card {
