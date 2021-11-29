@@ -99,7 +99,7 @@ const Chat= () => {
 				Chatterbox
 				</div>
 				<div onClick={handleLogout} className="logout-tab">
-					Logout
+					Log out
 				</div>
 			</div>
 			<ChatEngine
