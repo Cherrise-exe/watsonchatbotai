@@ -107,6 +107,7 @@ const Chat= () => {
 				userName={user.email}
 				userSecret={user.uid}
 				projectID={process.env.REACT_APP_CHAT_ENGINE_ID}
+				renderNewChatForm={(creds) => renderChatForm(creds)}
 			/>
 		</div>
 	);
