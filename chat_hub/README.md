@@ -4,10 +4,9 @@ Sample messaging hub for users to interact and connect. This is a sample to crea
 
 ## Features
 
-Watson AI Chatbot
-ChatEngine.io for direct messages and Channels
-Firebase for User authentication
-
+- Watson AI Chatbot
+- ChatEngine.io for direct messages and Channels
+- Firebase for User authentication
 ## Introduction
 
 This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
