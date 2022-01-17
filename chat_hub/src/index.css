@@ -112,7 +112,17 @@
   background-color: white;
   border-radius: 22px;
 }
-
+#login-disclaimer {
+  position: relative;
+  top: calc(50vh - 144px);
+  left: calc(50vw - 210px);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 420px;
+  margin-top: 10px;
+  text-align: center;
+  background-color: rgb(224, 192, 11);
+}
 .login-button {
   cursor: pointer;
   color: white;

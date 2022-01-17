@@ -1,12 +1,13 @@
 # Chat_hub Application
 
-Sample messaging hub for users to interact and connect.
+Sample messaging hub for users to interact and connect. This is a sample to create and test out IBM's Watson chatbot and ChatEngine.io's direct messaging feature for a group project.
 
 ## Features
 
 Watson AI Chatbot
 ChatEngine.io for direct messages and Channels
 Firebase for User authentication
+
 ## Introduction
 
 This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.

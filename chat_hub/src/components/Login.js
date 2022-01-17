@@ -16,6 +16,9 @@ const Login = () => {
                 <GoogleOutlined />+ Sign in with Google
             </div>
         </div>
+        <div id="login-disclaimer">
+        <h4>This is a sample to create and test out IBM's Watson chatbot and ChatEngine.io's direct messaging feature for a group project.</h4>
+        </div>
     </div>
     );
 }
